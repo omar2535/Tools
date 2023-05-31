@@ -4,3 +4,9 @@
 [submodule "joomscan"]
 	path = joomscan
 	url = https://github.com/rezasp/joomscan.git
+[submodule "snmpenum"]
+	path = snmpenum
+	url = https://github.com/ajohnston9/snmpenum.git
+[submodule "odat"]
+	path = odat
+	url = https://github.com/quentinhardy/odat.git
