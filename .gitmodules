@@ -1,0 +1,6 @@
+[submodule "droopescan"]
+	path = droopescan
+	url = https://github.com/droope/droopescan.git
+[submodule "joomscan"]
+	path = joomscan
+	url = https://github.com/rezasp/joomscan.git
