@@ -16,3 +16,27 @@
 [submodule "smtp-user-enum"]
 	path = smtp-user-enum
 	url = https://github.com/pentestmonkey/smtp-user-enum.git
+[submodule "nmapAutomator"]
+	path = nmapAutomator
+	url = https://github.com/21y4d/nmapAutomator.git
+[submodule "NfSpy"]
+	path = NfSpy
+	url = https://github.com/bonsaiviking/NfSpy.git
+[submodule "linux-exploit-suggester-2"]
+	path = linux-exploit-suggester-2
+	url = https://github.com/jondonas/linux-exploit-suggester-2.git
+[submodule "impacket"]
+	path = impacket
+	url = https://github.com/SecureAuthCorp/impacket.git
+[submodule "creddump7"]
+	path = creddump7
+	url = https://github.com/Neohapsis/creddump7.git
+[submodule "checksec.sh"]
+	path = checksec.sh
+	url = https://github.com/slimm609/checksec.sh.git
+[submodule "peda"]
+	path = peda
+	url = https://github.com/longld/peda.git
+[submodule "pwndbg"]
+	path = pwndbg
+	url = https://github.com/pwndbg/pwndbg
