@@ -11,3 +11,10 @@ git submodule init
 git submodule update
 ```
 
+and now you can run the install script
+
+```sh
+chmod +x install.sh
+./install.sh
+```
+
